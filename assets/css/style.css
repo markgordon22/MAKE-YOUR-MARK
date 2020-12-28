@@ -26,6 +26,14 @@ body {background-color: #000000a9;
 
 .nav-link:hover {color: aqua;}
 
+.navbar-brand
+{color: #ffffff;
+font-size: 250%;
+text-decoration: none;
+font-family: "epilogue", sans-serif;
+letter-spacing: 1px;
+margin-left: 1px;}
+
 
 
   
