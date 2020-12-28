@@ -60,7 +60,16 @@ The **goal** for this project is to offer a top quality gym service with excepti
 **Requirements**
 * To **Navigate** across the website using the navbar provided.
 * To be provided with **information** of what the service provides such as classes and memberships.
-* The text, imagery to be shown in an attractive manor.
+* The text, imagery to be shown in a **readabale** and **attractive manor**.
+* The **contact form** to be operating with no faults.
+
+**Expectations**
+* **Navigation** across the website is quick and simple using the navbar.
+* **Information** of the services is provided and easy to find.
+* The text, imagery shown is **readable** and displayed in an **attractive manor**
+* Contact form operating with **no faults**.
+
+
 
 
 
