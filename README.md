@@ -69,6 +69,16 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * The text, imagery shown is **readable** and displayed in an **attractive manor**
 * Contact form operating with **no faults**.
 
+## Design choices ##
+
+When **designing** this website I looked for inspiration off several gym websites at first. I then came across [TNTGYM](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/). On this page you can clearly see the membership rates along with what is attached to each rate.
+I liked the way each membership rate broke down what it comes with. I used [bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) for both my classes page and membership page. I believed
+a website with a consistent format made for easy viewing and readability.
+
+
+
+
+
 
 
 
