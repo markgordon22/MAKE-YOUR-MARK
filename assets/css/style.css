@@ -12,11 +12,15 @@ body {background-color: #000000a9;
          font-size: 65%;
          position: relative;}
 
- .nav-link {color: #ffffff;
+.nav-link {color: #ffffff;
     font-size: 105%;
     text-decoration: none;
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
     margin-left: 30px;
     }
+
+.navbar{height: 100px;}
+
+  
 
