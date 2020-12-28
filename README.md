@@ -29,5 +29,9 @@
 
 The **goal** for this project is to offer a top quality gym service with exceptional classes for people of all ages and fitness levels.
 
+## User Goals ##
+
+
+
 
 
