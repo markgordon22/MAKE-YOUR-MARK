@@ -55,7 +55,12 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * **As a site owner** I want to **display the prices** of both the classes and the memberships.
 * **As a site owner** I want to utilise the website to **attract** potential clients and advertise the service and **boost brand loyalty**.
 
-## User requirements and Expectations
+## User requirements and Expectations ##
+
+**Requirements**
+* To **Navigate** across the website using the navbar provided.
+* To be provided with **information** of what the service provides such as classes and memberships.
+* The text, imagery to be shown in an attractive manor.
 
 
 
