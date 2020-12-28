@@ -48,4 +48,14 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
 * **As a user** I want to see the **results of people who have joined this gym** so that it would **encourage** me to select this gym as my place of working out.
 
-## Site Owner Goals ####
+## Site Owner Goals ##
+
+* **As a site owner** I want to offer a gateway for potential clients to book classes and memberships.
+* **As a site owner** I want to **inform** potential clients of the contact details and location of the service.
+* **As a site owner** I want to **display the prices** of both the classes and the memberships.
+* **As a site owner** I want to utilise the website to **attract** potential clients and advertise the service and **boost brand loyalty**.
+
+
+
+
+
