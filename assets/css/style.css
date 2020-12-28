@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
 
+
  * {margin: 0;
    padding: 0;
    border: 0;}
@@ -13,7 +14,7 @@ body {background-color: #000000a9;
          position: relative;}
 
 .nav-link {color: #ffffff;
-    font-size: 105%;
+    font-size: 205%;
     text-decoration: none;
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
@@ -33,6 +34,9 @@ text-decoration: none;
 font-family: "epilogue", sans-serif;
 letter-spacing: 1px;
 margin-left: 1px;}
+
+ .navbar-brand:hover 
+  {color: aqua;}
 
 .navbar-toggler{background-color: #ffffff;
                 height: 25px;
