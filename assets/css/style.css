@@ -4,5 +4,11 @@
    padding: 0;
    border: 0;}
 
-   html{
+html{
        scroll-behavior: auto;}
+
+body {background-color: #000000a9;
+         font-family: "epilogue", sans-serif;
+         font-size: 65%;
+         position: relative;}
+
