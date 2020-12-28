@@ -38,7 +38,12 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * To view the **classes** and its prices that are on offer in this gym.
 * To see the **reviews** of past and current users of the gym.
 * To view the different **memberships** and its prices on offer.
-* To view **images** of the classes on offer and the gym itself(image carousel)
+* To view **images** of the classes on offer and the gym itself(image carousel).
+* To see where the gym is **located**
+
+## User Stories ##
+
+
 
 
 
