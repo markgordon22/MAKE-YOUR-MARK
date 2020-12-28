@@ -69,6 +69,10 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * The text, imagery shown is **readable** and displayed in an **attractive manor**
 * Contact form operating with **no faults**.
 
+## Design choices ##
+
+
+
 
 
 
