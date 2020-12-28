@@ -31,6 +31,15 @@ The **goal** for this project is to offer a top quality gym service with excepti
 
 ## User Goals ##
 
+### as a visitor to MAKE YOUR MARK I want.. ###
+
+* To find **contact details** for this gym service.
+* To find **information** for this gym service in an **about us** section.
+* To view the **classes** and its prices that are on offer in this gym.
+* To see the **reviews** of past and current users of the gym.
+* To view the different **memberships** and its prices on offer.
+* To view **images** of the classes on offer and the gym itself(image carousel)
+
 
 
 
