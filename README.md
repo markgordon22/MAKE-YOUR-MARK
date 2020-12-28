@@ -43,7 +43,7 @@ The **goal** for this project is to offer a top quality gym service with excepti
 
 ## User Stories ##
 
-
+* **As a user** I want to **a simplified, easy to read, viewable website**
 
 
 
