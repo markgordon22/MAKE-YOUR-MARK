@@ -53,7 +53,8 @@ margin-left: 1px;}
   margin-bottom: 25px;
   }
 
-  .about-paragraphs {color: white;
+ 
+.about-paragraphs {color: white;
   font-family: 'epilogue', sans-serif;
   font-size: 180%;}
 
@@ -102,6 +103,11 @@ padding-bottom: 12px;
 width: 100%;
 border-radius: none;
 }
+
+.card-img-top:hover{height: 290px;
+width: 100%;
+transform: scale(1.02);
+cursor: pointer;}
 
 .card {
 border: 1px solid white;
