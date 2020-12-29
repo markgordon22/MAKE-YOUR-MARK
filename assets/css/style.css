@@ -117,6 +117,13 @@ height: auto;
 color: white;
 text-align: center;}
 
+.times>li {text-align: center;
+display: block;
+color: white;
+padding-top: 10px;}
+
+
+
 
 
 
