@@ -89,8 +89,13 @@ text-align: center;
 }
 
 .card-body {background-color: black;
-color: white;
+color: white;}
 
+.card-text
+{color: #ffffff;
+font-size: large;
+text-align: center;
+padding-bottom: 12px;
 }
 
 
