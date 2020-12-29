@@ -61,6 +61,12 @@ margin-left: 1px;}
 text-align: center;
 font-size: 300%;}
 
+  .social-networks, li
+{display: inline;
+font-size: 190%;
+padding-right: 12px;
+}
+
 
 
 
