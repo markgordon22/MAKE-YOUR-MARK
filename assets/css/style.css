@@ -130,6 +130,35 @@ input[type=text], textarea {width: 100%;
   margin-top: 10px;
   margin-bottom: 16px;}
 
+  #first-name {color: white;
+font-size: 170%;
+}
+
+#last-name {color: white;
+font-size: 170%;
+}
+
+#email-address  {color: white;
+font-size: 170%;
+}
+
+#phone-number {color: white;
+font-size: 170%;
+}
+
+#subject {color: white;
+font-size: 170%;
+}
+
+::placeholder{font-size: large;
+color: black;}
+
+label {margin: 10px;}
+
+input {margin: 10px;}
+
+textarea {color: black;}
+
 
 
 
