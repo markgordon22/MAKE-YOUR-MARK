@@ -107,7 +107,7 @@ The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 * [Membershipspage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-membershipspage.pdf)
 * [contactpage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-contactpage.pdf)
 
-## Features ##
+# Features #
 
 Features that have been implemented to MAKEYOURMARK are the following.
 
@@ -117,6 +117,8 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
 * **Image carousel** of photos from the gym.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
+
+# Technologies #
 
 
 
