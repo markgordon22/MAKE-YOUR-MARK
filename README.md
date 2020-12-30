@@ -126,6 +126,9 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font awesome](https://fontawesome.com/icons?d=gallery)
+
 
 
 
