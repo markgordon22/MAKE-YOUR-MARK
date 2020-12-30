@@ -131,6 +131,9 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [Git Hub](https://en.wikipedia.org/wiki/GitHub)
 * [Git pod](https://www.gitpod.io/docs/)
+* [Autoprefixer](https://autoprefixer.github.io/)
+* [lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools)
 
 
 
