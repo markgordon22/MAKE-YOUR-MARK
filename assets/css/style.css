@@ -32,8 +32,7 @@ body     {background-color: #A9A9A9;
 font-size: 250%;
 text-decoration: none;
 font-family: "epilogue", sans-serif;
-letter-spacing: 1px;
-margin-left: 1px;}
+}
 
  .navbar-brand:hover 
   {color: #00ffff;}
