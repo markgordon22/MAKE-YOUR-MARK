@@ -107,6 +107,12 @@ The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 * [Membershipspage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-membershipspage.pdf)
 * [contactpage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-contactpage.pdf)
 
+## Features ##
+
+
+
+
+
 
 
  
