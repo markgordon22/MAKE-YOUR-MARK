@@ -87,6 +87,7 @@ the footer beside the email and phone contact details.
 ### Colors ###
 
 Before deciding on what color scheme to adopt I did some research on the benefits of using certain color schemes. According to [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) "While pairing #000000 with crisp white can create a high-impact scheme". I used this for my containers and container text.
+I used coolors to get portray my color scheme.
 
 * Body element was given a light grey hex value: #a9a9a9;
 * Containers were given a black hex value: #000000;
