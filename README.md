@@ -123,7 +123,9 @@ Features that have been implemented to MAKEYOURMARK are the following.
 
 **Technologies** used include the following.
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
 
 
 
