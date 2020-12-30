@@ -78,6 +78,7 @@ a website with a consistent format made for easy viewing and readability.
 ### fonts ###
 
 I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I incorporated this font from [googlefonts](https://fonts.google.com/).
+Sans-serif was used as the back up font in case epilogue did nit work.
 
 ### Icons ###
 
@@ -119,6 +120,12 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
 
 # Technologies #
+
+**Technologies** used include the following.
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
 
 
 
