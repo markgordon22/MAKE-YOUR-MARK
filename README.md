@@ -75,6 +75,12 @@ When **designing** this website I looked for inspiration off several gym website
 I liked the way each membership rate broke down what it comes with. I used [bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) for both my classes page and membership page. I believed
 a website with a consistent format made for easy viewing and readability.
 
+### fonts ###
+
+I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I incorporated this font from [googlefonts](https://fonts.google.com/).
+
+
+
 
 
 
