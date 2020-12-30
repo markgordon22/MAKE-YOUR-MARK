@@ -134,6 +134,9 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Autoprefixer](https://autoprefixer.github.io/)
 * [lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools)
+* [Tiny png](https://tinypng.com/)
+* [W3 HTML validation](https://validator.w3.org/)
+* [W3 CSS validation](https://jigsaw.w3.org/css-validator/)
 
 
 
