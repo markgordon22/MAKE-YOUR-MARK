@@ -79,6 +79,10 @@ a website with a consistent format made for easy viewing and readability.
 
 I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I incorporated this font from [googlefonts](https://fonts.google.com/).
 
+### Icons ###
+
+Icons for this website were delivered by [fontawesome](https://fontawesome.com/icons?d=gallery). Icons were used as a styling purpose for elements such as the brand name in the navbar and for
+the footer beside the email and phone contact details.
 
 
 
