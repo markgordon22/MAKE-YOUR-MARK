@@ -92,6 +92,8 @@ Before deciding on what color scheme to adopt I did some research on the benefit
 * Containers were given a black hex value: #000000;
 * Text, navbar and navlinks was given a white hex value: #000000;
 
+![colorscheme](wireframes/colorscheme.png)
+
 
  
 
