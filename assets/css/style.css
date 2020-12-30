@@ -25,7 +25,7 @@ body     {background-color: #000000a9;
 
 .navbar-nav {background-color:#000000;}
 
-.nav-link:hover {color: aqua;}
+.nav-link:hover {color: #00ffff;}
 
 .navbar-brand
 {color: #ffffff;
@@ -36,7 +36,7 @@ letter-spacing: 1px;
 margin-left: 1px;}
 
  .navbar-brand:hover 
-  {color: aqua;}
+  {color: #00ffff;}
 
 .navbar-toggler{background-color: #ffffff;
                 height: 25px;
