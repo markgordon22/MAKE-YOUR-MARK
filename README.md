@@ -128,6 +128,11 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
 * [Google Fonts](https://fonts.google.com/)
 * [Font awesome](https://fontawesome.com/icons?d=gallery)
+* [Git](https://en.wikipedia.org/wiki/Git)
+* [Git Hub](https://en.wikipedia.org/wiki/GitHub)
+* [Git pod](https://www.gitpod.io/docs/)
+
+
 
 
 
