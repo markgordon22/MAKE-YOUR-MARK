@@ -102,10 +102,10 @@ View my wireframes [here](https://github.com/markgordon22/MAKEYOURMARK/tree/main
 
 The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
-* Home page
-* Our classes page
-* Memberships page
-* contact page
+* [homepage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-home.pdf)
+* [Ourclassespage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-ourclassespage.pdf)
+* [Membershipspage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-membershipspage.pdf)
+* [contactpage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/wireframe-contactpage.pdf)
 
 
 
