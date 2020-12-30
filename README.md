@@ -94,6 +94,8 @@ Before deciding on what color scheme to adopt I did some research on the benefit
 
 ![colorscheme](wireframes/colorscheme.png)
 
+## Wireframing ##
+
 
  
 
