@@ -149,9 +149,19 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Autoprefixer](https://autoprefixer.github.io/).  parses your CSS and adds vendor prefixes.
 * [lighthouse](https://developers.google.com/web/tools/lighthouse). Website performance testing utility in Chrome DevTools (the very right of the toggle bar)
 * [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools). A helpful tool used throughout the website development process to debug code and gave me access to the lighthouse testing utility.
-* [Tiny png](https://tinypng.com/). Was able to shrink images sizes to ensure fasting loading times.
+* [Tiny png](https://tinypng.com/). Was able to shrink images sizes to ensure faster loading times.
 * [W3 HTML validation](https://validator.w3.org/). Online HTML testing validator.
 * [W3 CSS validation](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
+* [Jquery](https://en.wikipedia.org/wiki/JQuery). Dependencie that bootstrap requires for some of its components to work. 
+* [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
+
+## Testing ##
+
+
+
+
+
+
 
 
 
