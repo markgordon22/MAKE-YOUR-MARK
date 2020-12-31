@@ -12,8 +12,9 @@
         * Fonts
         * Icons
         * Colours
-* Technologies
+        * Images
 * Features
+* Technologies
     * Features that have been developed
     * Features that will be implemented in the future
 * Testing
@@ -96,6 +97,20 @@ I used coolors to get portray my color scheme.
 
 ![colorscheme](wireframes/colorscheme.png)
 
+### Images ###
+
+Images used for the website are linked below
+
+**Images**
+
+* [Carousel Images](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-carousel)
+
+* [Classes Images](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-classes)
+
+* [Membership Image](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-memberships)
+
+* [Reviews Images](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-reviews)
+
 ## Wireframing ##
 
 I began wireframing with a pen and paper to get a rough feel of what I wanted my site to look and feel. I downloaded [balsamiq](https://balsamiq.com/) to complete my wireframes for **MAKEYOURMARK**
@@ -137,6 +152,10 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Tiny png](https://tinypng.com/). Was able to shrink images sizes to ensure fasting loading times.
 * [W3 HTML validation](https://validator.w3.org/). Online HTML testing validator.
 * [W3 CSS validation](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
+
+
+
+
 
 
 
