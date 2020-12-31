@@ -123,20 +123,20 @@ Features that have been implemented to MAKEYOURMARK are the following.
 
 **Technologies** used include the following.
 
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [CSS](https://en.wikipedia.org/wiki/CSS)
-* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
-* [Google Fonts](https://fonts.google.com/)
-* [Font awesome](https://fontawesome.com/icons?d=gallery)
-* [Git](https://en.wikipedia.org/wiki/Git)
-* [Git Hub](https://en.wikipedia.org/wiki/GitHub)
-* [Git pod](https://www.gitpod.io/docs/)
-* [Autoprefixer](https://autoprefixer.github.io/)
-* [lighthouse](https://developers.google.com/web/tools/lighthouse)
-* [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools)
-* [Tiny png](https://tinypng.com/)
-* [W3 HTML validation](https://validator.w3.org/)
-* [W3 CSS validation](https://jigsaw.w3.org/css-validator/)
+* [HTML](https://en.wikipedia.org/wiki/HTML). Hyper Text Markup Language, used for website structure.
+* [CSS](https://en.wikipedia.org/wiki/CSS). Cascading style Sheets, used for website styling.
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/). To enhance responsiveness of website.
+* [Google Fonts](https://fonts.google.com/). To incorporate google fonts for website.
+* [Font awesome](https://fontawesome.com/icons?d=gallery). To incorporate icons for website.
+* [Git](https://en.wikipedia.org/wiki/Git). Used version control to add,commit and push files to github.
+* [Git Hub](https://en.wikipedia.org/wiki/GitHub). Used for hosting files used for the website.
+* [Git pod](https://www.gitpod.io/docs/). IDE for working on my code.
+* [Autoprefixer](https://autoprefixer.github.io/).  parses your CSS and adds vendor prefixes.
+* [lighthouse](https://developers.google.com/web/tools/lighthouse). Website performance testing utility in Chrome DevTools (the very right of the toggle bar)
+* [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools). A helpful tool used throughout the website development process to debug code and gave me access to the lighthouse testing utility.
+* [Tiny png](https://tinypng.com/). Was able to shrink images sizes to ensure fasting loading times.
+* [W3 HTML validation](https://validator.w3.org/). Online HTML testing validator.
+* [W3 CSS validation](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
 
 
 
