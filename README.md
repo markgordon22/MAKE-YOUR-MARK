@@ -99,7 +99,7 @@ I used coolors to get portray my color scheme.
 
 ### Images ###
 
-Images used for the website are linked below
+Images used for the website are linked below. I wanted to use engaging images that were engaging and relevant such as to a particular class.
 
 **Images**
 
@@ -156,6 +156,8 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
 
 ## Testing ##
+
+
 
 
 
