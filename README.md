@@ -72,7 +72,8 @@ The **goal** for this project is to offer a top quality gym service with excepti
 
 ## Design choices ##
 
-When **designing** this website I looked for inspiration off several gym websites at first. I then came across [TNTGYM](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/). On this page you can clearly see the membership rates along with what is attached to each rate.
+When **designing** this website I looked for inspiration off several gym websites at first. I then came across [TNTGYM](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/). On this page you can clearly 
+see the membership rates along with what is attached to each rate.
 I liked the way each membership rate broke down what it comes with. I used [bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) for both my classes page and membership page. I believed
 a website with a consistent format made for easy viewing and readability.
 
@@ -150,12 +151,18 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * [lighthouse](https://developers.google.com/web/tools/lighthouse). Website performance testing utility in Chrome DevTools (the very right of the toggle bar)
 * [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools). A helpful tool used throughout the website development process to debug code and gave me access to the lighthouse testing utility.
 * [Tiny png](https://tinypng.com/). Was able to shrink images sizes to ensure faster loading times.
-* [W3 HTML validation](https://validator.w3.org/). Online HTML testing validator.
-* [W3 CSS validation](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
+* [W3 HTML validator](https://validator.w3.org/). Online HTML testing validator.
+* [W3 CSS validator](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
 * [Jquery](https://en.wikipedia.org/wiki/JQuery). Dependencie that bootstrap requires for some of its components to work. 
 * [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
 
 ## Testing ##
+
+For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all and to correct them for submission.
+
+I also used [W3 CSS validator](http://jigsaw.w3.org/css-validator/) to check on errors to eventually be corrected for final submission.
+
+
 
 
 
