@@ -135,6 +135,10 @@ Features that have been implemented to MAKEYOURMARK are the following.
 * **Image carousel** of photos from the gym.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
 
+Features to implement.
+
+* None
+
 # Technologies #
 
 **Technologies** used include the following.
