@@ -1,5 +1,8 @@
 # MAKEYOURMARK
 
+ ![Github logo](assets/img/mockup/logo.png)
+
+
 ## Contents
 
 * UX
