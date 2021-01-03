@@ -227,7 +227,11 @@ Here are some of the **bugs** i encountered along the way of MAKEYOURMARK
   Solution: Inserted a class of class="form-control" in all inputs of the form and also gave a pattern class of pattern="[0-9]{3}[0-9]{3}[0-9]{4}" 
   to inform users the pattern of how to format the insertion of their phone number.
 
-  
+## Deployment ##
+
+
+
+
 
 
 
