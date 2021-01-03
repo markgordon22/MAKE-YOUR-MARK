@@ -229,6 +229,21 @@ Here are some of the **bugs** i encountered along the way of MAKEYOURMARK
 
 ## Deployment ##
 
+**MAKE YOUR MARK** was built on gitpod with the use of git and github in order to host the repository.
+When deploying **MAKE YOUR MARK** to github pages the following steps were taken.
+
+* Type github into browser
+* Signed in with respective username and password
+* Select repository you wish to deploy github pages
+* Select MAKE YOUR MARK repository
+* Select settings(the very right of the menu)
+* Scroll down settings until you get to github pages
+* Select main branch from the drop menu provided
+* Click to confirm using the save button on the right
+* **MAKE YOUR MARK** is now live on github pages
+
+
+
 
 
 
