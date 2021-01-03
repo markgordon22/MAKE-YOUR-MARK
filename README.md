@@ -170,12 +170,30 @@ Features to implement.
 
 ## Testing ##
 
-For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all and to correct them for submission.
-I received errors from each of the four pages of the website.
+For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all pages and to correct them for submission.
+I received errors from each of the four pages of the website. 
 
-* 
+All 4 pages received these erros and fixes outlined below. 
+
+   **errors**
+
+   * gaps in the a href attribute of the phone number
+   * p tags seen as children of the ul parent
+   * stray div tags apparent
+   * stray closing script ags apparent
+   * no closing a tags for social media links.
+
+   **fixes**
+
+   * removed gaps from a href attribute of the phone number.
+   * removed p tags as children of the ul parent.
+   * removed stray div tags.
+   * removed stray closing script tags
+   * Inserted closing a tags for social media links.
+
 
 I also used [W3 CSS validator](http://jigsaw.w3.org/css-validator/) to check on errors to eventually be corrected for final submission.
+CSS is clean with no erros or warnings.
 
 
 
