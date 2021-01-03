@@ -205,6 +205,31 @@ CSS is clean with no erros or warnings.
 
 ## Bugs ##
 
+Here are some of the **bugs** i encountered along the way of MAKEYOURMARK
+
+* Bug: Images in bootstrap cards and cards itself were extremely narrow on mobile and tablet devices
+  Solution: Decreased the padding of the containers so that the cards could take up more room of the container so they could be easier
+  to view and read.
+
+* Bug: Navbar brand was not balanced on mobile and tablet devices.
+  Solution: withrew the letter spacing.
+
+* Bug: Image carousel images was switching to different sizes and thus making the container turn to different heights.
+  Solution: gave each image carousel image a fixed height of 400px.
+
+* Bug: social media links in footer were jumping to different lines on mobile.
+  Solution: Gave a smaller padding so they wouldnt jump line.
+
+* Bug: Bootstrap cards stuck to eachother as they were given a height of h-100
+  Solution: removed h-100 class and gave a margin so that there will be some space between the cards.
+
+* Bug: Contact form would not function correctly and wouldnt spot false email addresses without an @ or a false phone number.
+  Solution: Inserted a class of class="form-control" in all inputs of the form and also gave a pattern class of pattern="[0-9]{3}[0-9]{3}[0-9]{4}" 
+  to inform users the pattern of how to format the insertion of their phone number.
+
+  
+
+
 
 
 
