@@ -195,6 +195,18 @@ All 4 pages received these erros and fixes outlined below.
 I also used [W3 CSS validator](http://jigsaw.w3.org/css-validator/) to check on errors to eventually be corrected for final submission.
 CSS is clean with no erros or warnings.
 
+**errors**
+
+* Card-img-top has to many values or values are not recognized : none. indicating the border radius class value.
+
+**fixes**
+
+* removed the border radius class.
+
+
+
+
+
 
 
 
