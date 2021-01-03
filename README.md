@@ -203,6 +203,10 @@ CSS is clean with no erros or warnings.
 
 * removed the border radius class.
 
+## Bugs ##
+
+
+
 
 
 
