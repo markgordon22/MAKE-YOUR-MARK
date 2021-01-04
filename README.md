@@ -1,4 +1,4 @@
-# MAKEYOURMARK
+# MAKE YOUR MARK
 
  ![Github logo](assets/img/mockup/logo.png)
 
@@ -225,7 +225,7 @@ Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 
 * Bug: Contact form would not function correctly and wouldnt spot false email addresses without an @ or a false phone number.
   Solution: Inserted a class of class="form-control" in all inputs of the form and also gave a pattern class of pattern="[0-9]{3}[0-9]{3}[0-9]{4}" 
-  to inform users the pattern of how to format the insertion of their phone number.
+  to inform users the pattern of how to format the insertion of their phone number. I found this on [W3 schools](https://www.w3schools.com/)
 
 ## Deployment ##
 
