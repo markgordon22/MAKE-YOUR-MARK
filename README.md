@@ -288,9 +288,14 @@ Membership image
 
 * [membership image](https://1.bp.blogspot.com/-0yWh4BKqBPM/XW3mJh5NQVI/AAAAAAAABSw/_n1bLYzV23kI6M3Gg2zkyZF8k468FcMewCLcBGAs/s1600/gym-people-1.jpg)
 
+Resources
 
+I used some websites to help best describe what some classes could do.
 
-
+* [trx class description](https://www.htsw.net/fitness/trx/trx-class-descriptions/#:~:text=TRX%20is%20a%20form%20of,weight%20to%20complete%20the%20exercises.)
+* [crossfit class description](https://www.nbcnews.com/better/lifestyle/what-crossfit-it-right-you-here-s-what-you-need-ncna1070886)
+* [spinning for hell class description](https://westwood.ie/fitness-classes/class-descriptions/spinning/)
+* [hiit boxing description](https://www.totalcoaching.com/blog/5-unique-hiit-workouts/#:~:text=Boxing%20HIIT%20Circuit&text=This%20workout%20will%20combine%20a,each%20move%20consecutively%20without%20rest.)
 
 
 
