@@ -284,6 +284,10 @@ Classes images
 * [total upper body class](https://images5.alphacoders.com/100/thumb-1920-1001176.jpg)
 * [treadmill terrior class](https://miro.medium.com/max/4000/0*VcnyjcH0raX8gXRN)
 
+Membership image
+
+* [membership image](https://1.bp.blogspot.com/-0yWh4BKqBPM/XW3mJh5NQVI/AAAAAAAABSw/_n1bLYzV23kI6M3Gg2zkyZF8k468FcMewCLcBGAs/s1600/gym-people-1.jpg)
+
 
 
 
