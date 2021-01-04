@@ -242,6 +242,18 @@ When deploying **MAKE YOUR MARK** to github pages the following steps were taken
 * Click to confirm using the save button on the right
 * **MAKE YOUR MARK** is now live on github pages
 
+### Cloning ###
+
+If you rather working on the repository on a local level, you are able to clone the repository to your own desktop by following the steps outlined below.
+
+* Go to [MAKE YOUR MARK github page](https://github.com/markgordon22/MAKEYOURMARK)
+* Go to the code button just to the left of the green gitpod button
+* To clone the repository using https, SSH or Github cli click the paste icon on the right
+* Open terminal
+* Change the current working directory to the location where you want the cloned directory.
+* Type git clone, and then paste the URL you copied earlier.
+* Press Enter to create your local clone.
+
 
 
 
