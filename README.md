@@ -258,19 +258,35 @@ If you rather working on the repository on a local level, you are able to clone 
 
 Images for MAKE YOUR MARK
 
-Image carousel
+Carousel images
 
 * [Carousel1](https://www.itl.cat/pngfile/big/317-3173165_man-and-woman-holding-battle-ropes-energy-exercise.jpg)
 * [Carousel2](https://c4.wallpaperflare.com/wallpaper/833/553/163/brunette-workout-fitness-gym-wallpaper-preview.jpg)
 * [Carousel3](https://wallpaperaccess.com/full/834254.jpg)
 * [Carousel4](https://wallsdesk.com/wp-content/uploads/2016/10/Gym-full-HD-1.jpg)
 
-Image reviews
+Review images
 
 * [Chris](https://videohive.img.customer.envatousercontent.com/files/6187aa8c-2a7e-407b-b4c2-71a8c57fd95c/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=781574376f26d20690ba7d1fb09fbab8)
 * [Marc & Frances](https://image.freepik.com/free-photo/mother-son-posing-smiling_23-2148414883.jpg)
 * [Oscar](https://image.freepik.com/free-photo/smiling-young-man-sitting-with-fitness-ball-gym_13339-42370.jpg)
 * [Sarah](https://creativemarket.com/StefanDahl/2049203-Smiling-young-woman-wearing-exercise-clothing-sitting-in-a-gym-featuring-20s)
+
+Classes images
+
+* [boxing barricade class](https://cdn.shopify.com/s/files/1/1769/4523/files/Franco_Boxer.jpg?v=1598919720)
+* [kettlebell killer class](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fitness-people-squatting-with-kettlebell-royalty-free-image-1595432236.jpg)
+* [leg burner class](https://fitandnice.net/wp-content/uploads/2020/09/21.png)
+* [spinning for hell class](https://www.magicform-bordeaux.fr/images/fitness/les-mills-sprint-salle-de-sport-bordeaux.jpg)
+* [tenacious trx class](https://www.universome.eu/wp-content/uploads/2019/07/trx-training.jpg)
+* [the all in one class](https://c4.wallpaperflare.com/wallpaper/969/943/742/legs-crossfit-squat-barbell-wallpaper-thumb.jpg)
+* [total crossfit class](https://www.fit.nl/wp-content/uploads/2015/12/belang-focus-training.jpg)
+* [total upper body class](https://images5.alphacoders.com/100/thumb-1920-1001176.jpg)
+* [treadmill terrior class](https://miro.medium.com/max/4000/0*VcnyjcH0raX8gXRN)
+
+
+
+
 
 
 
