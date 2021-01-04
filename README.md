@@ -310,6 +310,16 @@ Resources used in the making of this website included the following.
 
 Acknowledgements
 
+The people I want to thank for the help and guidance along the way of making **MAKE YOUR MARK**
+
+* [UCD gym and fitness](https://www.ucd.ie/sportandfitness/) where I found my love for health and fitness to inspire me to create a gym website.
+* [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
+* [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
+* [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
+* My mentor Rohit Shirma and our calednly video calls for his expertise and knowledge.
+
+
+
 
 
 
