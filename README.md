@@ -318,7 +318,7 @@ The people I want to thank for the help and guidance along the way of making **M
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
 * My mentor Rohit Shirma and our calednly video calls for his expertise and knowledge.
 
-
+**Important** Site is purely for educational purposes.
 
 
 
