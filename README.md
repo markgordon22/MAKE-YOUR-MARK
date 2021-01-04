@@ -297,6 +297,17 @@ I used some websites to help best describe what some classes could do.
 * [spinning for hell class description](https://westwood.ie/fitness-classes/class-descriptions/spinning/)
 * [hiit boxing description](https://www.totalcoaching.com/blog/5-unique-hiit-workouts/#:~:text=Boxing%20HIIT%20Circuit&text=This%20workout%20will%20combine%20a,each%20move%20consecutively%20without%20rest.)
 
+Resources
+
+Resources used in the making of this website included the following.
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Youtube](https://www.youtube.com/)
+* [Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300)
+* [tutors at code institute advice and guidance](https://codeinstitute.net/)
+* [W3 schools](https://www.w3schools.com/)
+* [Google](https://www.google.com/)
+
 
 
 
