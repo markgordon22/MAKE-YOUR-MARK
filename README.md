@@ -254,6 +254,10 @@ If you rather working on the repository on a local level, you are able to clone 
 * Type git clone, and then paste the URL you copied earlier.
 * Press Enter to create your local clone.
 
+## Credits ##
+
+
+
 
 
 
