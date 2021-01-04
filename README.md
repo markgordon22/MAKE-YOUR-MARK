@@ -265,6 +265,13 @@ Image carousel
 * [Carousel3](https://wallpaperaccess.com/full/834254.jpg)
 * [Carousel4](https://wallsdesk.com/wp-content/uploads/2016/10/Gym-full-HD-1.jpg)
 
+Image reviews
+
+* [Chris](https://videohive.img.customer.envatousercontent.com/files/6187aa8c-2a7e-407b-b4c2-71a8c57fd95c/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=781574376f26d20690ba7d1fb09fbab8)
+* [Marc & Frances](https://image.freepik.com/free-photo/mother-son-posing-smiling_23-2148414883.jpg)
+* [Oscar](https://image.freepik.com/free-photo/smiling-young-man-sitting-with-fitness-ball-gym_13339-42370.jpg)
+* [Sarah](https://creativemarket.com/StefanDahl/2049203-Smiling-young-woman-wearing-exercise-clothing-sitting-in-a-gym-featuring-20s)
+
 
 
 
