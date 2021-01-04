@@ -205,7 +205,7 @@ CSS is clean with no erros or warnings.
 
 ## Bugs ##
 
-Here are some of the **bugs** i encountered along the way of MAKEYOURMARK
+Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 
 * Bug: Images in bootstrap cards and cards itself were extremely narrow on mobile and tablet devices
   Solution: Decreased the padding of the containers so that the cards could take up more room of the container so they could be easier
@@ -255,6 +255,15 @@ If you rather working on the repository on a local level, you are able to clone 
 * Press Enter to create your local clone.
 
 ## Credits ##
+
+Images for MAKE YOUR MARK
+
+Image carousel
+
+* [Carousel1](https://www.itl.cat/pngfile/big/317-3173165_man-and-woman-holding-battle-ropes-energy-exercise.jpg)
+* [Carousel2](https://c4.wallpaperflare.com/wallpaper/833/553/163/brunette-workout-fitness-gym-wallpaper-preview.jpg)
+* [Carousel3](https://wallpaperaccess.com/full/834254.jpg)
+* [Carousel4](https://wallsdesk.com/wp-content/uploads/2016/10/Gym-full-HD-1.jpg)
 
 
 
