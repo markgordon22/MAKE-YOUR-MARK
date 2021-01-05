@@ -124,13 +124,13 @@ View my wireframes [here](https://github.com/markgordon22/MAKEYOURMARK/tree/main
 
 The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
-* [homepage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/homepage.pdf)
+* [home page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/homepage.pdf)
 
-* [Ourclassespage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/ourclassespage.pdf)
+* [Our classes page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/ourclassespage.pdf)
 
-* [Membershipspage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/membershipspage.pdf)
+* [Memberships page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/membershipspage.pdf)
 
-* [contactpage](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/contactpage.pdf)
+* [contact page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/contactpage.pdf)
 
 # Features #
 
@@ -169,6 +169,12 @@ Features to implement.
 * [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
 
 ## Testing ##
+
+Lighthouse was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
+Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
+Below are the four pages results.
+
+
 
 For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all pages and to correct them for submission.
 I received errors from each of the four pages of the website. 
@@ -260,10 +266,10 @@ Images for MAKE YOUR MARK
 
 Carousel images
 
-* [Carousel1](https://www.itl.cat/pngfile/big/317-3173165_man-and-woman-holding-battle-ropes-energy-exercise.jpg)
-* [Carousel2](https://c4.wallpaperflare.com/wallpaper/833/553/163/brunette-workout-fitness-gym-wallpaper-preview.jpg)
-* [Carousel3](https://wallpaperaccess.com/full/834254.jpg)
-* [Carousel4](https://wallsdesk.com/wp-content/uploads/2016/10/Gym-full-HD-1.jpg)
+* [Carousel 1](https://www.itl.cat/pngfile/big/317-3173165_man-and-woman-holding-battle-ropes-energy-exercise.jpg)
+* [Carousel 2](https://counselingonlinesite.com/wp-content/uploads/2020/04/man-workout-gym-working.jpg)
+* [Carousel 3](https://wallpaperaccess.com/full/834254.jpg)
+* [Carousel 4](https://wallsdesk.com/wp-content/uploads/2016/10/Gym-full-HD-1.jpg)
 
 Review images
 
