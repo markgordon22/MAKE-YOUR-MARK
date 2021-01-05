@@ -174,10 +174,14 @@ Features to implement.
 Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
 Below are the four pages results.
 
-* [Home page]()
-* [Our classes page]()
-* [Memberships page]()
-* [Contact page]()
+* [Lighthouse home page for mobile](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/mobile-homepage.pdf)
+* [Lighthouse our classes page for mobile](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/mobile-ourclasses.pdf)
+* [Lighthouse memberships page for mobile](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/mobile-membershipspage.pdf)
+* [Lighthouse contact page for mobile](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/mobile-contactpage.pdf)
+* [Lighthouse home page for desktop](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/Desktop-homepage.pdf)
+* [Lighthouse our classes page for desktop](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/Desktop-ourclasses.pdf)
+* [Lighthouse memberships page for desktop](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/desktop-membershipspage.pdf)
+* [Lighthouse contact page for desktop](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/desktop-contactpage.pdf)
 
 
 
