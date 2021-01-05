@@ -215,9 +215,13 @@ label {
 margin: 10px;
 }
 
-input {margin: 10px;}
+input {
+margin: 10px;
+}
 
-textarea {color: #000000;}
+textarea {
+color: #000000;
+}
 
 
 
