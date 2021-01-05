@@ -170,7 +170,7 @@ Features to implement.
 
 ## Testing ##
 
-Lighthouse was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
+[lighthouse](https://developers.google.com/web/tools/lighthouse) was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
 Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
 Below are the four pages results.
 
@@ -253,7 +253,7 @@ When deploying **MAKE YOUR MARK** to github pages the following steps were taken
 * Click to confirm using the save button on the right
 * **MAKE YOUR MARK** is now live on github pages
 
-### Cloning ###
+Cloning
 
 If you rather working on the repository on a local level, you are able to clone the repository to your own desktop by following the steps outlined below.
 
