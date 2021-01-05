@@ -253,7 +253,7 @@ When deploying **MAKE YOUR MARK** to github pages the following steps were taken
 * Click to confirm using the save button on the right
 * **MAKE YOUR MARK** is now live on github pages
 
-Cloning
+Deployment of repository on a local
 
 If you rather working on the repository on a local level, you are able to clone the repository to your own desktop by following the steps outlined below.
 
