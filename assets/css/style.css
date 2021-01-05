@@ -95,6 +95,12 @@ margin-top: 10px;
 font-size: large;
 }
 
+h5 {
+color: #ffffff;
+font-size: large;
+padding-right: none;
+}
+
 .social-networks, li {
 display: inline;
 font-size: 190%;
