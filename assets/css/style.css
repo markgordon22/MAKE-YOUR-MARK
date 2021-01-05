@@ -95,10 +95,9 @@ margin-top: 10px;
 font-size: large;
 }
 
-h5 {
+.classes-heading, h2 {
 color: #ffffff;
 font-size: large;
-padding-right: none;
 }
 
 .social-networks, li {
