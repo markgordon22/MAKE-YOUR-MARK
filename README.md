@@ -174,6 +174,11 @@ Lighthouse was used to assess the accessibility, performance, seo and best pract
 Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
 Below are the four pages results.
 
+* [Home page]()
+* [Our classes page]()
+* [Memberships page]()
+* [Contact page]()
+
 
 
 For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all pages and to correct them for submission.
