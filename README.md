@@ -123,13 +123,13 @@ I began wireframing with a pen and paper to get a rough feel of what I wanted my
 
 The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
-* [home page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/homepage.pdf)
+* [home page](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/wireframes/homepage.pdf)
 
-* [Our classes page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/ourclassespage.pdf)
+* [Our classes page](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/wireframes/ourclassespage.pdf)
 
-* [Memberships page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/membershipspage.pdf)
+* [Memberships page](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/wireframes/membershipspage.pdf)
 
-* [contact page](https://github.com/markgordon22/MAKEYOURMARK/blob/main/wireframes/contactpage.pdf)
+* [contact page](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/wireframes/contactpage.pdf)
 
 # Features #
 
