@@ -41,9 +41,10 @@ body {
 
 .navbar-brand {
     color: #ffffff;
-    font-size: 250%;
+    font-size: 200%;
     text-decoration: none;
     font-family: "epilogue", sans-serif;
+    padding-left: none;
     }
 
  .navbar-brand:hover {
