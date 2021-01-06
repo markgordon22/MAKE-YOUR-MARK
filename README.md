@@ -101,7 +101,7 @@ I used coolors to get portray my color scheme.
 * Containers were given a black hex value: #000000;
 * Text, navbar and navlinks was given a white hex value: #000000;
 
-![colorscheme](wireframes/colorscheme.png)
+![colorscheme](assets/wireframes/colorscheme.png)
 
 ### Images ###
 
