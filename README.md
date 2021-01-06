@@ -189,9 +189,38 @@ Below are the four pages results.
 
 Testing User Stories
 
-* 
+User stories for **MAKE YOUR MARK**
 
+* **As a user** I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
+* **As a user** I want to find out if there are any **classes or memberships** I would be interested in.
+* **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
+* **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
+* **As a user** I want to view read an **about** section to give me a brief understanding of the gym service.
 
+User story 1:
+I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
+
+* Website is easy to read, navigate around and an easy viewable website. Users will be informed and educated on the service on offer.
+
+User story 2:
+I want to find out if there are any **classes or memberships** I would be interested in.
+
+* Website has classes and memberships on offer for great prices.
+
+User story 3:
+I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
+
+* Website has a contact form and social media links to Facebook, Instagram, Youtube and Twitter which users can use to contact site owner.
+
+User Story 4:
+I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
+
+* Website has 4 members/users of the gym who give great feedback of their time at the gym. This will encourage users to sign up.
+
+User Story 5:
+I want to view read an **about** section to give me a brief understanding of the gym service.
+
+* Website has an about section giving a good description of the personal trainers, location of the gym and its ethos for users to read.
 
 For testing I used [W3 HTML validator](https://validator.w3.org/) to check on errors in my html code for all pages and to correct them for submission.
 I received errors from each of the four pages of the website. 
@@ -297,7 +326,7 @@ Review images
 
 Classes images
 
-* [boxing barricade class](https://cdn.shopify.com/s/files/1/1769/4523/files/Franco_Boxer.jpg?v=1598919720)
+* [boxing barricade class](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/boxer-exercising-with-punch-bag-royalty-free-image-685043825-1537211838.jpg)
 * [kettlebell killer class](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fitness-people-squatting-with-kettlebell-royalty-free-image-1595432236.jpg)
 * [leg burner class](https://fitandnice.net/wp-content/uploads/2020/09/21.png)
 * [spinning for hell class](https://www.magicform-bordeaux.fr/images/fitness/les-mills-sprint-salle-de-sport-bordeaux.jpg)
