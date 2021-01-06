@@ -1,5 +1,7 @@
 # MAKE YOUR MARK
 
+  [View live website here](https://markgordon22.github.io/MAKE-YOUR-MARK/)
+
  ![Github logo](assets/img/mockup/logo.png)
 
  ![image](assets/img/mockup/mockup.png)
@@ -18,6 +20,7 @@
         * Icons
         * Colours
         * Images
+        * Wireframes
 * Features
 * Technologies
     * Features that have been developed
@@ -118,7 +121,7 @@ Images used for the website are linked below. I wanted to use engaging images th
 
 * [Reviews Images](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-reviews)
 
-## Wireframing ##
+### Wireframing ###
 
 I began wireframing with a pen and paper to get a rough feel of what I wanted my site to look and feel. I used [balsamiq](https://balsamiq.com/) to complete my wireframes for **MAKE YOUR MARK**.
 
@@ -172,7 +175,7 @@ Features to implement.
 * [Balsamiq](https://balsamiq.com/) To do the wireframes.
 
 
-## Testing ##
+# Testing #
 
 [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
 Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
@@ -255,7 +258,7 @@ CSS is clean with no erros or warnings.
 
 * removed the border radius class.
 
-Manuall testing of features.
+Manual testing of features.
 
 * simple **navigation** for site.
 * Sharp and **attractive** design
@@ -318,7 +321,7 @@ Website was tested on google chrome, firefox, microsoft edge and safari. Compata
 * **Microsoft Edge** successful
 * **Safari** successful
 
-## Bugs ##
+### Bugs ###
 
 Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 
@@ -342,7 +345,7 @@ Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
   Solution: Inserted a class of class="form-control" in all inputs of the form and also gave a pattern class of pattern="[0-9]{3}[0-9]{3}[0-9]{4}" 
   to inform users the pattern of how to format the insertion of their phone number. I found this on [W3 schools](https://www.w3schools.com/bootstrap/bootstrap_ref_css_forms.asp)
 
-## Deployment ##
+# Deployment #
 
 **MAKE YOUR MARK** was built on gitpod with the use of git and github in order to host the repository.
 When deploying **MAKE YOUR MARK** to github pages the following steps were taken.
@@ -369,7 +372,7 @@ If you rather working on the repository on a local level, you are able to clone 
 * Type git clone, and then paste the URL you copied earlier.
 * Press Enter to create your local clone.
 
-## Credits ##
+# Credits #
 
 Images for MAKE YOUR MARK
 
