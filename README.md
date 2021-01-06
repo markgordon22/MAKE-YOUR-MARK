@@ -294,6 +294,14 @@ Feature 7: **responsive layout** design thanks to bootstrap
 
 * Website is fully responsive with the use of the bootstrap grid system.
 
+**Compatability testing**
+
+Website was tested on google chrome, firefox, microsoft edge and safari. Compatability was succesful
+
+
+
+
+
 
 ## Bugs ##
 
