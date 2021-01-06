@@ -49,8 +49,8 @@ The **goal** for this project is to offer a top quality gym service with excepti
 
 ## User Stories ##
 
-* **As a user** I want to **a simplified, easy to read, navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
-* **As a user** I want to find out **why** I should **preference** membership of this gym over competitors.
+* **As a user** I want to **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
+* **As a user** I want to find out why I should **preference membership** of this gym over competitors.
 * **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
 * **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
 
