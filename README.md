@@ -294,14 +294,29 @@ Feature 7: **responsive layout** design thanks to bootstrap
 
 * Website is fully responsive with the use of the bootstrap grid system.
 
+**Devices tested on Google chrome dev tools which were all successful**
+
+* Moto G4
+* Iphone 4
+* Galaxt S5
+* Pixel 2
+* Pixel 2XL
+* Iphone 5/SE
+* Iphone 6/7/8
+* Iphone 6/7/8 Plus
+* Iphone X
+* Ipad
+* Ipad pro
+* Surface Duo
+* Galaxy Fold
+
 **Compatability testing**
 
 Website was tested on google chrome, firefox, microsoft edge and safari. Compatability was succesful
-
-
-
-
-
+* **Google Chrome** successful
+* **Firefox** succesful
+* **Microsoft Edge** successful
+* **Safari** successful
 
 ## Bugs ##
 
