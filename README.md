@@ -255,6 +255,46 @@ CSS is clean with no erros or warnings.
 
 * removed the border radius class.
 
+Manuall testing of features.
+
+* simple **navigation** for site.
+* Sharp and **attractive** design
+* **Contact form** with submit button
+* **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
+* **Image carousel** of photos from the gym.
+* **Cards** from bootstrap used for advertising the classes and its memberships.
+* **responsive layout** design thanks to bootstrap
+* bootstrap buttons to book classes and memberships.
+
+Feature 1: simple **navigation** for site.
+
+* Navigation of the site is succesful with all navbar links working sufficently.
+
+Feature 2:  Sharp and **attractive** design
+
+* Design is sharp and attractive
+
+Feature 3: **Contact form** with submit button
+
+* Contact form is working correctly. All labels require text input ,with email address needing an @ and phone number requiring pattern of numbers to be inserted 
+
+Feature 4: **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
+
+* Social media and contact links work correctly and redirect to external pages
+
+Feature 5:  **Image carousel** of photos from the gym.
+
+* Images slide accross correctly with previous and next buttons visible to the user.
+
+Feature 6: **Cards** from bootstrap used for advertising the classes and its memberships.
+
+* Cards are working fine as per their intended purpose.
+
+Feature 7: **responsive layout** design thanks to bootstrap
+
+* Website is fully responsive with the use of the bootstrap grid system.
+
+
 ## Bugs ##
 
 Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
