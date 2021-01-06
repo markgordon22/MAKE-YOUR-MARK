@@ -119,8 +119,7 @@ Images used for the website are linked below. I wanted to use engaging images th
 
 ## Wireframing ##
 
-I began wireframing with a pen and paper to get a rough feel of what I wanted my site to look and feel. I downloaded [balsamiq](https://balsamiq.com/) to complete my wireframes for **MAKEYOURMARK**
-View my wireframes [here](https://github.com/markgordon22/MAKEYOURMARK/tree/main/wireframes).
+I began wireframing with a pen and paper to get a rough feel of what I wanted my site to look and feel. I used [balsamiq](https://balsamiq.com/) to complete my wireframes for **MAKE YOUR MARK**.
 
 The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
