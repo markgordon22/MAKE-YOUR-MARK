@@ -53,6 +53,7 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * **As a user** I want to find out if there are any **classes or memberships** I would be interested in.
 * **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
 * **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
+* **As a user** I want to view some images of the gym.
 
 ## Site Owner Goals ##
 
