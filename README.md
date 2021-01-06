@@ -166,6 +166,8 @@ Features to implement.
 * [W3 CSS validator](https://jigsaw.w3.org/css-validator/). Online CSS tetsing validator.
 * [Jquery](https://en.wikipedia.org/wiki/JQuery). Dependencie that bootstrap requires for some of its components to work. 
 * [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
+* [Balsamiq](https://balsamiq.com/) To do the wireframes.
+
 
 ## Testing ##
 
