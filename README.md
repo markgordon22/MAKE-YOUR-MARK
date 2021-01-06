@@ -136,12 +136,14 @@ The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
 Features that have been implemented to MAKEYOURMARK are the following.
 
-* simple use of **navigation** on wireframe devices.
+* simple **navigation** for site.
 * Sharp and **attractive** design
-* **Contact form** with submit button
+* **Contact form** with submit button(to be tested)
 * **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
 * **Image carousel** of photos from the gym.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
+* **responsive layout** design thanks to bootstrap
+* bootstrap buttons to book classes and memberships.
 
 Features to implement.
 
