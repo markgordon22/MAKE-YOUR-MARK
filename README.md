@@ -351,7 +351,7 @@ When deploying **MAKE YOUR MARK** to github pages the following steps were taken
 * Click to confirm using the save button on the right
 * **MAKE YOUR MARK** is now live on github pages
 
-Deployment of repository on a local/cloning
+Deployment of repository on a local level/cloning
 
 If you rather working on the repository on a local level, you are able to clone the repository to your own desktop by following the steps outlined below.
 
@@ -424,6 +424,6 @@ The people I want to thank for the help and guidance along the way of making **M
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
 * [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
-* My mentor Rohit Shorma and our video calls for his expertise and knowledge.
+* My mentor Rohit Shorma and our video calls for sharing his expertise and knowledge.
 
 **Important** Site is purely for educational purposes.
