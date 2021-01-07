@@ -141,12 +141,12 @@ The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 Features that have been implemented to **MAKE YOUR MARK** are the following.
 
 * simple **navigation** for site.
-* Sharp and **attractive** design
-* **Contact form** with submit button
-* **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
-* **Image carousel** of photos from the gym.
+* Sharp and **attractive** design.
+* **Contact form** with submit button.
+* **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome.
+* **Image carousel**.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
-* **responsive layout** design thanks to bootstrap
+* **responsive layout** design thanks to bootstrap.
 * bootstrap buttons to book classes and memberships.
 
 Features to implement.
@@ -179,7 +179,7 @@ Features to implement.
 # Testing #
 
 [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
-Lighthouse was a handy testing tool as it free, easy to use and not time consuming.
+Lighthouse was a handy testing tool as it is free, easy to use and not time consuming.
 Below are the four pages results.
 
 * [Lighthouse home page for mobile](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/mobile-homepage.pdf)
@@ -271,7 +271,7 @@ Feature 4: **Social media links** such as Facebook and Instagram and email and p
 
 * Social media and contact links work correctly and redirect to external pages
 
-Feature 5:  **Image carousel** of photos from the gym.
+Feature 5:  **Image carousel**
 
 * Images slide accross correctly with previous and next buttons visible to the user.
 
