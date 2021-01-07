@@ -422,6 +422,6 @@ The people and organisations I want to thank for the help and guidance along the
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
 * [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
-* My mentor Rohit Shorma and our video calls for sharing his expertise and knowledge.
+* My mentor Rohit Sharma and our video calls for sharing his expertise and knowledge.
 
 **Important** Site is purely for educational purposes.
