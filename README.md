@@ -45,8 +45,8 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * To view the **classes** and its prices that are on offer in this gym.
 * To see the **reviews** of past and current users of the gym.
 * To view the different **memberships** and its prices on offer.
-* To view **images** of the classes on offer and the gym itself(image carousel).
-* To see where the gym is **located**
+* To view **images** of the classes on offer and the gym itself.
+* To see where the gym is **located.**
 
 ## User Stories
 
@@ -86,17 +86,20 @@ a website with a consistent format made for easy viewing and readability.
 
 ### fonts
 
-I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I incorporated this font from [googlefonts](https://fonts.google.com/).
-Sans-serif was used as the back up font in case epilogue did nit work.
+I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I got this font from [googlefonts](https://fonts.google.com/).
+Sans-serif was used as the back up font in case epilogue did not work.
 
 ### Icons
 
-Icons for this website were delivered by [fontawesome](https://fontawesome.com/icons?d=gallery). Icons were used as a styling purpose for elements such as the brand name in the navbar and for
+Icons for this website were delivered by [fontawesome](https://fontawesome.com/icons?d=gallery). Icons were used as a styling purpose for elements like the brand name in the navbar and for
 the footer beside the email and phone contact details.
 
 ### Colors
 
-Before deciding on what color scheme to adopt I did some research on the benefits of using certain color schemes. According to [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) "While pairing #000000 with crisp white can create a high-impact scheme". I used this for my containers and container text.
+Before deciding on what color scheme to adopt I did some research on the benefits of using certain color schemes. According to [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) mentioned
+>While pairing #000000 with crisp white can create a high-impact scheme.
+
+I used this for my containers and container text.
 I used coolors to get portray my color scheme.
 
 * Body element was given a light grey hex value: #a9a9a9;
@@ -424,4 +427,4 @@ The people and organisations I want to thank for the help and guidance along the
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
 * My mentor Rohit Sharma and our video calls for sharing his expertise and knowledge.
 
-**Important** Site is purely for educational purposes.
+**Important!** Site is purely for educational purposes.
