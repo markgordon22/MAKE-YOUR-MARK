@@ -110,7 +110,7 @@ I used coolors to get portray my color scheme.
 
 ### Images
 
-Images used for the website are linked below. I wanted to use engaging images that were relevant to a particular class.
+Images used for the website are linked below.
 
 **Images**
 
