@@ -1,3 +1,5 @@
+
+/* epilogue font from google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
 
 
@@ -18,6 +20,7 @@ body {
      position: relative;
     }
 
+/*---navbar-----*/
 .nav-link {
     color: #ffffff;
     font-size: 105%;
@@ -68,13 +71,14 @@ body {
   margin-bottom: 25px;
   }
 
- 
+/*-----about section on home page---*/
 .about-paragraphs {
   color:  #ffffff;
   font-family: 'epilogue', sans-serif;
   font-size: 180%;
   }
 
+/*----heading tags----*/
 h1 {
 color:  #ffffff;
 text-align: center;
@@ -95,11 +99,7 @@ margin-top: 10px;
 font-size: large;
 }
 
-.classes-heading {
-color: #ffffff;
-font-size: large;
-}
-
+/*-----footer elements---*/
 .social-networks, li {
 display: inline;
 font-size: 190%;
@@ -118,11 +118,10 @@ margin-left: 0%;
 font-size: large;
 text-align: center;
 }
-
+/*-----epilogue font from google fonts----*/
 .list-group {
 margin-bottom: 17px;
 }
-
 
 .card-body {
 background-color: #000000;
@@ -160,7 +159,7 @@ font-size: large;
 color:  #ffffff;
 text-align: center;
 }
-
+/*---opening hours on contact page----*/
 .times>li {
 text-align: center;
 display: block;
@@ -168,8 +167,7 @@ color:  #ffffff;
 padding-top: 10px;
 }
 
-
-
+/*-----Contact page-----*/
 #button {
 background-color: blue;
 color:  #ffffff;
