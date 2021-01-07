@@ -4,7 +4,7 @@
 
  ![Github logo](assets/img/mockup/logo.png)
 
- ![image](assets/img/mockup/mockup.png)
+ ![image](/assets/img/mockup/mockup.png)
 
 
 ## Contents
