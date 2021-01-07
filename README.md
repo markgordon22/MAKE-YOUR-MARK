@@ -32,13 +32,13 @@
 
 # User Experience (UX) #
 
-## The project goal ##
+## The project goal
 
 The **goal** for this project is to offer a top quality gym service with exceptional classes for people of all ages and fitness levels.
 
-## User Goals ##
+## User Goals 
 
-### as a visitor to MAKE YOUR MARK I want.. ###
+### as a visitor to MAKE YOUR MARK I want..
 
 * To find **contact details** for this gym service.
 * To find **information** for this gym service in an **about us** section.
@@ -48,7 +48,7 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * To view **images** of the classes on offer and the gym itself(image carousel).
 * To see where the gym is **located**
 
-## User Stories ##
+## User Stories
 
 * **As a user** I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
 * **As a user** I want to find out if there are any **classes or memberships** I would be interested in.
@@ -56,14 +56,14 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
 * **As a user** I want to view read an **about** section to give me a brief understanding of the gym service.
 
-## Site Owner Goals ##
+## Site Owner Goals 
 
 * **As a site owner** I want to offer a gateway for potential clients to book classes and memberships.
 * **As a site owner** I want to **inform** potential clients of the contact details and location of the service.
 * **As a site owner** I want to **display the prices** of both the classes and the memberships.
 * **As a site owner** I want to utilise the website to **attract** potential clients and advertise the service and **boost brand loyalty**.
 
-## User requirements and Expectations ##
+## User requirements and Expectations
 
 **Requirements**
 * To **Navigate** across the website using the navbar provided.
@@ -77,24 +77,24 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * The text, imagery shown is **readable** and displayed in an **attractive manor**
 * Contact form operating with **no faults**.
 
-## Design choices ##
+## Design choices 
 
 When **designing** this website I looked for inspiration off several gym websites at first. I then came across [TNTGYM](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/). On this page you can clearly 
 see the membership rates along with what is attached to each rate.
 I liked the way each membership rate broke down what it comes with. I used [bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) for both my classes page and membership page. I believed
 a website with a consistent format made for easy viewing and readability.
 
-### fonts ###
+### fonts
 
 I decided to use the [epilogue](https://fonts.google.com/specimen/Epilogue?query=epilogue) font due to personal liking and found it as nice attractive text for the user to read with. I incorporated this font from [googlefonts](https://fonts.google.com/).
 Sans-serif was used as the back up font in case epilogue did nit work.
 
-### Icons ###
+### Icons
 
 Icons for this website were delivered by [fontawesome](https://fontawesome.com/icons?d=gallery). Icons were used as a styling purpose for elements such as the brand name in the navbar and for
 the footer beside the email and phone contact details.
 
-### Colors ###
+### Colors
 
 Before deciding on what color scheme to adopt I did some research on the benefits of using certain color schemes. According to [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) "While pairing #000000 with crisp white can create a high-impact scheme". I used this for my containers and container text.
 I used coolors to get portray my color scheme.
@@ -105,7 +105,7 @@ I used coolors to get portray my color scheme.
 
 ![colorscheme](assets/wireframes/colorscheme.png)
 
-### Images ###
+### Images
 
 Images used for the website are linked below. I wanted to use engaging images that were relevant to a particular class.
 
@@ -119,7 +119,7 @@ Images used for the website are linked below. I wanted to use engaging images th
 
 * [Reviews Images](https://github.com/markgordon22/MAKEYOURMARK/tree/main/assets/img/img-reviews)
 
-### Wireframing ###
+### Wireframes 
 
 I began wireframing with a pen and paper to get a rough feel of what I wanted my site to look and feel. I used [balsamiq](https://balsamiq.com/) to complete my wireframes for **MAKE YOUR MARK**.
 
@@ -304,7 +304,7 @@ Website was tested on google chrome, firefox, microsoft edge and safari.
 * **Microsoft Edge** successful
 * **Safari** successful
 
-# Bugs #
+# Bugs 
 
 Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 
@@ -334,7 +334,7 @@ Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 * Bug: Call button link wasnt working on safari or firefox
   Solution: changed tel+: to tel:+
 
-# Deployment #
+# Deployment 
 
 **MAKE YOUR MARK** was built on gitpod with the use of git and github in order to host the repository.
 When deploying **MAKE YOUR MARK** to github pages the following steps were taken.
@@ -361,7 +361,7 @@ If you rather working on the repository on a local level, you are able to clone 
 * Type git clone, and then paste the URL you copied earlier.
 * Press Enter to create your local clone.
 
-# Credits #
+# Credits 
 
 Images for **MAKE YOUR MARK**
 
