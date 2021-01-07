@@ -109,7 +109,7 @@ I used coolors to get portray my color scheme.
 
 ### Images ###
 
-Images used for the website are linked below. I wanted to use engaging images that were engaging and relevant such as to a particular class.
+Images used for the website are linked below. I wanted to use engaging images that were relevant to a particular class.
 
 **Images**
 
@@ -137,11 +137,11 @@ The 4 pages below contain the wireframe devices of mobile, tablet and desktop.
 
 # Features #
 
-Features that have been implemented to MAKEYOURMARK are the following.
+Features that have been implemented to **MAKE YOUR MARK** are the following.
 
 * simple **navigation** for site.
 * Sharp and **attractive** design
-* **Contact form** with submit button(to be tested)
+* **Contact form** with submit button
 * **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
 * **Image carousel** of photos from the gym.
 * **Cards** from bootstrap used for advertising the classes and its memberships.
@@ -315,7 +315,7 @@ Feature 7: **responsive layout** design thanks to bootstrap
 
 **Compatability testing**
 
-Website was tested on google chrome, firefox, microsoft edge and safari. Compatability was succesful
+Website was tested on google chrome, firefox, microsoft edge and safari.
 * **Google Chrome** successful
 * **Firefox** succesful
 * **Microsoft Edge** successful
@@ -345,6 +345,9 @@ Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
   Solution: Inserted a class of class="form-control" in all inputs of the form and also gave a pattern class of pattern="[0-9]{3}[0-9]{3}[0-9]{4}" 
   to inform users the pattern of how to format the insertion of their phone number. I found this on [W3 schools](https://www.w3schools.com/bootstrap/bootstrap_ref_css_forms.asp)
 
+* Bug: navbar toggler floated below navbar brand.
+  Solution: decreased font-size of navbar brand which left room for navbar toggler to float top right of the navbar.
+
 # Deployment #
 
 **MAKE YOUR MARK** was built on gitpod with the use of git and github in order to host the repository.
@@ -360,7 +363,7 @@ When deploying **MAKE YOUR MARK** to github pages the following steps were taken
 * Click to confirm using the save button on the right
 * **MAKE YOUR MARK** is now live on github pages
 
-Deployment of repository on a local
+Deployment of repository on a local/cloning
 
 If you rather working on the repository on a local level, you are able to clone the repository to your own desktop by following the steps outlined below.
 
@@ -374,7 +377,7 @@ If you rather working on the repository on a local level, you are able to clone 
 
 # Credits #
 
-Images for MAKE YOUR MARK
+Images for **MAKE YOUR MARK**
 
 Carousel images
 
@@ -433,7 +436,7 @@ The people I want to thank for the help and guidance along the way of making **M
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
 * [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
-* My mentor Rohit Shirma and our calednly video calls for his expertise and knowledge.
+* My mentor Rohit Shorma and our calednly video calls for his expertise and knowledge.
 
 **Important** Site is purely for educational purposes.
 
