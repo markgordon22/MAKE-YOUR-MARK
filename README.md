@@ -416,7 +416,7 @@ Resources used in the making of this website included the following.
 * [Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) Fellow students who had time for questions
 * [tutors at code institute advice and guidance](https://codeinstitute.net/) their awesome help and guidance and was hugely appreciated
 * [W3 schools](https://www.w3schools.com/) the website where I got my contact form from which is styled specifically for the website
-
+* [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites)
 Acknowledgements
 
 The people and organisations I want to thank for the help and guidance along the way of making **MAKE YOUR MARK**
