@@ -30,15 +30,13 @@
 * Deployment
 * Credit
 
-# User Experience (UX) #
+# User Experience (UX) 
 
 ## The project goal
 
 The **goal** for this project is to offer a top quality gym service with exceptional classes for people of all ages and fitness levels.
 
 ## User Goals 
-
-### as a visitor to MAKE YOUR MARK I want..
 
 * To find **contact details** for this gym service.
 * To find **information** for this gym service in an **about us** section.
@@ -153,7 +151,7 @@ Features to implement.
 
 * None
 
-# Technologies #
+# Technologies 
 
 **Technologies** used include the following.
 
@@ -176,7 +174,7 @@ Features to implement.
 * [Balsamiq](https://balsamiq.com/) To do the wireframes.
 
 
-# Testing #
+# Testing 
 
 [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
 Lighthouse was a handy testing tool as it is free, easy to use and not time consuming.
@@ -192,8 +190,6 @@ Below are the four pages results.
 * [Lighthouse contact page for desktop](https://github.com/markgordon22/MAKE-YOUR-MARK/blob/main/assets/testing/desktop-contactpage.pdf)
 
 Testing User Stories
-
-User stories for **MAKE YOUR MARK**
 
 User story 1:
 I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
@@ -417,6 +413,7 @@ Resources used in the making of this website included the following.
 * [tutors at code institute advice and guidance](https://codeinstitute.net/) their awesome help and guidance and was hugely appreciated
 * [W3 schools](https://www.w3schools.com/) the website where I got my contact form from which is styled specifically for the website
 * [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites)
+
 Acknowledgements
 
 The people and organisations I want to thank for the help and guidance along the way of making **MAKE YOUR MARK**
