@@ -416,7 +416,7 @@ Resources used in the making of this website included the following.
 
 Acknowledgements
 
-The people I want to thank for the help and guidance along the way of making **MAKE YOUR MARK**
+The people and organisations I want to thank for the help and guidance along the way of making **MAKE YOUR MARK**
 
 * [UCD gym and fitness](https://www.ucd.ie/sportandfitness/) where I found my love for health and fitness to inspire me to create a gym website.
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
