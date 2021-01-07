@@ -297,7 +297,7 @@ Feature 7: **responsive layout** design thanks to bootstrap
 
 **Compatability testing**
 
-Website was tested on google chrome, firefox, microsoft edge and safari.
+Website was tested on laptop on google chrome, firefox, microsoft edge and safari.
 * **Google Chrome** successful
 * **Firefox** succesful
 * **Microsoft Edge** successful
