@@ -1,6 +1,6 @@
 # MAKE YOUR MARK
 
-  [View live website here]( https://markgordon22.github.io/MAKE-YOUR-MARK/)
+  [View live website here](https://markgordon22.github.io/MAKE-YOUR-MARK/)
 
  ![Github logo](assets/img/mockup/logo.png)
 
@@ -31,8 +31,6 @@
 * Credit
 
 # User Experience (UX) #
-
----
 
 ## The project goal ##
 
