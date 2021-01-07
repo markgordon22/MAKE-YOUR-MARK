@@ -398,10 +398,10 @@ Content
 
 I used some websites to help best describe what some classes could do.
 
-* [trx class description](https://www.htsw.net/fitness/trx/trx-class-descriptions/#:~:text=TRX%20is%20a%20form%20of,weight%20to%20complete%20the%20exercises.)
-* [crossfit class description](https://www.nbcnews.com/better/lifestyle/what-crossfit-it-right-you-here-s-what-you-need-ncna1070886)
-* [spinning for hell class description](https://westwood.ie/fitness-classes/class-descriptions/spinning/)
-* [hiit boxing description](https://www.totalcoaching.com/blog/5-unique-hiit-workouts/#:~:text=Boxing%20HIIT%20Circuit&text=This%20workout%20will%20combine%20a,each%20move%20consecutively%20without%20rest.)
+* [Tenacious trx class description](https://www.htsw.net/fitness/trx/trx-class-descriptions/#:~:text=TRX%20is%20a%20form%20of,weight%20to%20complete%20the%20exercises.)
+* [Total crossfit class description](https://www.nbcnews.com/better/lifestyle/what-crossfit-it-right-you-here-s-what-you-need-ncna1070886)
+* [Spinning for hell class description](https://westwood.ie/fitness-classes/class-descriptions/spinning/)
+* [Boxing barricade description](https://www.totalcoaching.com/blog/5-unique-hiit-workouts/#:~:text=Boxing%20HIIT%20Circuit&text=This%20workout%20will%20combine%20a,each%20move%20consecutively%20without%20rest.)
 
 Resources
 
@@ -412,7 +412,7 @@ Resources used in the making of this website included the following.
 * [Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) Fellow students who had time for questions
 * [tutors at code institute advice and guidance](https://codeinstitute.net/) their awesome help and guidance and was hugely appreciated
 * [W3 schools](https://www.w3schools.com/) the website where I got my contact form from which is styled specifically for the website
-* [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites)
+* [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) I quoted them on the benefit of using a black background with a white color.
 
 Acknowledgements
 
@@ -422,6 +422,6 @@ The people and organisations I want to thank for the help and guidance along the
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
 * [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
-* My mentor Rohit Sharma and our video calls for sharing his expertise and knowledge.
+*  My mentor Rohit Sharma and our video calls for sharing his expertise and knowledge.
 
 **Important!** Site is purely for educational purposes.
