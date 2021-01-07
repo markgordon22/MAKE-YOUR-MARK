@@ -111,6 +111,7 @@ color:  #ffffff;
 font-size: 20px;
 }
 
+/*---memberships cards on memberships page------ */
 .list-group-item {
 background-color: #000000;;
 color: white;
@@ -118,7 +119,8 @@ margin-left: 0%;
 font-size: large;
 text-align: center;
 }
-/*-----epilogue font from google fonts----*/
+
+/*---cards from bootstrap------*/
 .list-group {
 margin-bottom: 17px;
 }
@@ -159,6 +161,7 @@ font-size: large;
 color:  #ffffff;
 text-align: center;
 }
+
 /*---opening hours on contact page----*/
 .times>li {
 text-align: center;
@@ -167,7 +170,7 @@ color:  #ffffff;
 padding-top: 10px;
 }
 
-/*-----Contact page-----*/
+/*-----Contact form from w3 schools styled for MAKE YOUR MARK-----*/
 #button {
 background-color: blue;
 color:  #ffffff;
