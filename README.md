@@ -407,7 +407,7 @@ Resources
 
 Resources used in the making of this website included the following.
 
-* [Bootstrap](https://getbootstrap.com/) Cards, image carousel, navbar and buttons
+* [Bootstrap](https://getbootstrap.com/) Cards, image carousel, navbar, buttons and scripts below footer.
 * [Youtube](https://www.youtube.com/) helped me understand how to use git and explaining the bootstrap grid
 * [Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) Fellow students who had time for questions
 * [tutors at code institute advice and guidance](https://codeinstitute.net/) their awesome help and guidance and was hugely appreciated
