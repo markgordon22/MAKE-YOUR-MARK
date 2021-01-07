@@ -348,6 +348,9 @@ Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 * Bug: navbar toggler floated below navbar brand.
   Solution: decreased font-size of navbar brand which left room for navbar toggler to float top right of the navbar.
 
+* Bug: Call button link wasnt working on safari or firefox
+  Solution: changed tel+: to tel:+
+
 # Deployment #
 
 **MAKE YOUR MARK** was built on gitpod with the use of git and github in order to host the repository.
