@@ -30,7 +30,7 @@
 * Deployment
 * Credit
 
-## User Experience (UX) ##
+# User Experience (UX) #
 
 ---
 
@@ -194,12 +194,6 @@ Testing User Stories
 
 User stories for **MAKE YOUR MARK**
 
-* **As a user** I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
-* **As a user** I want to find out if there are any **classes or memberships** I would be interested in.
-* **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
-* **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
-* **As a user** I want to view read an **about** section to give me a brief understanding of the gym service.
-
 User story 1:
 I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
 
@@ -260,15 +254,6 @@ CSS is clean with no erros or warnings.
 
 Manual testing of features.
 
-* simple **navigation** for site.
-* Sharp and **attractive** design
-* **Contact form** with submit button
-* **Social media links** such as Facebook and Instagram and email and phone contact details with **icons** from font awesome
-* **Image carousel** of photos from the gym.
-* **Cards** from bootstrap used for advertising the classes and its memberships.
-* **responsive layout** design thanks to bootstrap
-* bootstrap buttons to book classes and memberships.
-
 Feature 1: simple **navigation** for site.
 
 * Navigation of the site is succesful with all navbar links working sufficently.
@@ -321,7 +306,7 @@ Website was tested on google chrome, firefox, microsoft edge and safari.
 * **Microsoft Edge** successful
 * **Safari** successful
 
-### Bugs ###
+# Bugs #
 
 Here are some of the **bugs** i encountered along the way of MAKE YOUR MARK
 
