@@ -22,9 +22,9 @@
         * Images
         * Wireframes
 * Features
+    * Features that have been developed developed
+    * Features to implement
 * Technologies
-    * Features that have been developed
-    * Features that will be implemented in the future
 * Testing
 * Bugs
 * Deployment
@@ -52,7 +52,7 @@ The **goal** for this project is to offer a top quality gym service with excepti
 * **As a user** I want to find out if there are any **classes or memberships** I would be interested in.
 * **As a user** I want to **contact** the site owner over any current or potential **queries** I have or may have in the future.
 * **As a user** I want to see the **results of people who have joined this gym** or **recommendations** so that it would **encourage** me to select this gym.
-* **As a user** I want to view read an **about** section to give me a brief understanding of the gym service.
+* **As a user** I want to view read an **about** section to give me a brief description of the gym service.
 
 ## Site Owner Goals 
 
@@ -173,7 +173,6 @@ Features to implement.
 * [Popper](https://cdnjs.com/libraries/popper.js/2.5.3). Dependencie that bootstrap requires for some of its components to work. 
 * [Balsamiq](https://balsamiq.com/) To do the wireframes.
 
-
 # Testing 
 
 [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to assess the accessibility, performance, seo and best practices and generated a report based on the mentioned criteria on a desktop and mobile.
@@ -194,7 +193,7 @@ Testing User Stories
 User story 1:
 I want a **simplified, easy to read, easy to navigate and viewable website** so I will be **educated** and **informed** on the service that is on offer. 
 
-* Website is easy to read, navigate around and an easy viewable website. Users will be informed and educated on the service on offer.
+* Website is easy to read, navigate around and an easily viewable website. Users will be informed and educated on the service on offer.
 
 User story 2:
 I want to find out if there are any **classes or memberships** I would be interested in.
@@ -212,7 +211,7 @@ I want to see the **results of people who have joined this gym** or **recommenda
 * Website has 4 members/users of the gym who give great feedback of their time at the gym. This will encourage users to sign up.
 
 User Story 5:
-I want to view read an **about** section to give me a brief understanding of the gym service.
+I want to view read an **about** section to give me a brief description of the gym service.
 
 * Website has an about section giving a good description of the personal trainers, location of the gym and its ethos for users to read.
 
