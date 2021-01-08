@@ -160,7 +160,7 @@ Features to implement.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/). To enhance responsiveness of website.
 * [Google Fonts](https://fonts.google.com/). To incorporate google fonts for website.
 * [Font awesome](https://fontawesome.com/icons?d=gallery). To incorporate icons for website.
-* [Git](https://en.wikipedia.org/wiki/Git). Used version control to add,commit and push files to github.
+* [Git](https://en.wikipedia.org/wiki/Git). Used for version control to add,commit and push files to github.
 * [Git Hub](https://en.wikipedia.org/wiki/GitHub). Used for hosting files used for the website.
 * [Git pod](https://www.gitpod.io/docs/). IDE for working on my code.
 * [Autoprefixer](https://autoprefixer.github.io/). Parses your CSS and adds vendor prefixes.
@@ -411,7 +411,6 @@ Resources used in the making of this website included the following.
 * [Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) Fellow students who had time for questions
 * [tutors at code institute advice and guidance](https://codeinstitute.net/) their awesome help and guidance and was hugely appreciated
 * [W3 schools](https://www.w3schools.com/) the website where I got my contact form from which is styled specifically for the website
-* [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) I quoted them on the benefit of using a black background with a white color.
 
 Acknowledgements
 
@@ -421,6 +420,7 @@ The people and organisations I want to thank for the help and guidance along the
 * [TNT Sligo gym](https://tntgymsligo.ie/tnt-gym-sligo-opening-times/) for the way they used cards to advertise their gym.
 * [The tutors at Code Institute](https://codeinstitute.net/) for their help and guidance.
 * [The people on Slack](https://app.slack.com/client/T0L30B202/C01AU4Y9KST/thread/C7JQY2RHC-1609505739.097300) to answering my queries.
+* [shutterstock](https://www.shutterstock.com/blog/black-background-design-for-websites) I quoted them on the benefit of using a black background with a white color.
 *  My mentor Rohit Sharma and our video calls for sharing his expertise and knowledge.
 
-**Important!** Site is purely for educational purposes.
+**Important!** Site is purely for educational purposes. 
